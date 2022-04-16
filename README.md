@@ -1,16 +1,14 @@
-### Hi there 👋
+### BEM-VINDO(A) AO MEU PERFIL! :relaxed:
 
-<!--
-**jaum-fs/jaum-fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Marcos.
 
-Here are some ideas to get you started:
+Estudante de Sistema de Informação | UFF :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco atualmente está em Backend - Java :hotsprings:
+
+<div>
+  
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaum-fs&layout=compact&theme=tokyonight"/>
+  
+</div>

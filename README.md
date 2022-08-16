@@ -21,15 +21,13 @@ Meu foco atualmente está em Backend - Java :hotsprings:
 #### TECNOLOGIAS E IDEs
 
 <div>
-  <img align="center" alt="jaum-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  
-  <img align="center" alt="jaum-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  
-  <img align="center" alt="jaum-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
+  <img align="center" alt="jaum-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
   
   <img align="center" alt="jaum-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-/>
   
+  <img align="center" alt="jaum-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg"/>
+  
+  <img align="center" alt="jaum-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   
   
 </div>

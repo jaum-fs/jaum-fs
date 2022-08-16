@@ -27,7 +27,6 @@ Meu foco atualmente está em Backend - Java :hotsprings:
   
   <img align="center" alt="jaum-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
   
-  <img align="center" alt="jaum-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
   
 </div>

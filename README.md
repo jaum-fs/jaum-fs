@@ -16,7 +16,7 @@ Meu foco atualmente está em Backend - Java :hotsprings:
 #### REDES SOCIAIS
 
 <!--[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jaumfpss_)-->
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-martins-barbalho-da-silva-0a1066229/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joaomarcosmbsilva/)
 
 #### TECNOLOGIAS E IDEs
 

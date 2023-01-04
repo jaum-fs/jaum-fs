@@ -1,15 +1,18 @@
-### Bem-vindo(a) ao meu perfil! :relaxed:
+## Bem-vindo(a) ao meu perfil! :relaxed:
 
-Meu nome é João Marcos, sou estudante de Sistema de Informação | UFF :computer:
+### Sobre mim
 
-Desenvolvedor Back-End
+Meu nome é João Marcos, sou aluno de Sistema de Informação | UFF :computer:<br><br>
+Desenvolvedor Back-End<br><br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=radical)](https://github.com/jaum-fs/github-readme-stats)
 
 #### Redes Sociais
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jaumfpss_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joaomarcosmbsilva/)
 
-#### Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 
 <div>
   
@@ -20,7 +23,7 @@ Desenvolvedor Back-End
 </div>
 
 
-#### Estou aprendendo 
+### Estou aprendendo 
 
 <div>
   

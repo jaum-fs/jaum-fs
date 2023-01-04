@@ -5,7 +5,7 @@
 Meu nome é João Marcos, sou aluno de Sistema de Informação | UFF :computer:<br><br>
 Desenvolvedor Back-End<br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=radical)](https://github.com/jaum-fs/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=dark)](https://github.com/jaum-fs/github-readme-stats)
 
 #### Redes Sociais
 

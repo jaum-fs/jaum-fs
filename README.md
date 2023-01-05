@@ -34,7 +34,10 @@ Atualmente atuo como Desenvolvedor Back-End<br>
 <div>
   
   <img align="center" alt="jaum-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>           
-  <img align="center" alt="jaum-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />           
+  <img align="center" alt="jaum-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />           
+  
+  <img align="center" alt="jaum-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+ 
 </div>
 
 ### Projetos recentes:

@@ -42,3 +42,5 @@ Atualmente atuo como Desenvolvedor Back-End<br>
 [Web Service com Spring e JPA](https://github.com/jaum-fs/web_service-spring-jpa)
 
 
+ ![Snake animation](https://github.com/jaum-fs/jaum-fs/blob/output/github-contribution-grid-snake.svg)
+

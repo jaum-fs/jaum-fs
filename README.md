@@ -8,7 +8,11 @@ Sou aluno de Sistema de Informação na Universidade Federal Fluminense :compute
 
 Atualmente atuo como Desenvolvedor Back-End<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=dark)](https://github.com/jaum-fs/github-readme-stats)
+<div>
+  <img align = "center" width ="400" src = "https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=dark">
+ 
+  <img align="center" width ="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaum-fs&layout=compact&theme=dark">
+</div>
 
 #### Redes Sociais:
 

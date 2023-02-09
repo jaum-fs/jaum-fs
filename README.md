@@ -47,9 +47,9 @@ Atualmente atuo como Desenvolvedor Back-End<br>
 
 ### Projetos recentes:
 
-[Web Service com Spring e JPA](https://github.com/jaum-fs/web_service-spring-jpa)
-
 [API Rest com Spring Boot e MongoDB](https://github.com/jaum-fs/api-spring-mongo)
 
- <!--![Snake animation](https://github.com/jaum-fs/jaum-fs/blob/output/github-contribution-grid-snake.svg)-->
+[Web Service com Spring e JPA](https://github.com/jaum-fs/web_service-spring-jpa)
+
+
 

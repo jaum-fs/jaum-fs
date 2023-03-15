@@ -6,7 +6,7 @@ Meu nome é João Marcos, tenho 21 anos.<br>
 
 Sou aluno de Sistema de Informação na Universidade Federal Fluminense :computer:<br>
 
-Atualmente atuo como Desenvolvedor Back-End<br>
+ Desenvolvedor Back-End<br>
 
 <div>
   <img align = "center" width ="400" src = "https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=dark">

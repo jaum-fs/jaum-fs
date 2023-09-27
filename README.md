@@ -29,6 +29,8 @@ Sou aluno de Sistema de Informação na Universidade Federal Fluminense :compute
   <img align="center" alt="jaum-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   
   <img align="center" alt="jaum-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+
+  <img align="center" alt="jaum-angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
   
  <!-- <img align="center" alt="jaum-spring" height="40" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>-->
   

@@ -6,7 +6,7 @@ Meu nome é João Marcos, tenho 21 anos.<br>
 
 Sou aluno de Sistema de Informação na Universidade Federal Fluminense :computer:<br>
 
- Desenvolvedor Back-End<br>
+Desenvolvedor Back-End<br>
 
 <div>
   <img align = "center" width ="400" src = "https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=dark">
@@ -30,7 +30,6 @@ Sou aluno de Sistema de Informação na Universidade Federal Fluminense :compute
   
   <img align="center" alt="jaum-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
 
-  <img align="center" alt="jaum-angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
   
  <!-- <img align="center" alt="jaum-spring" height="40" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>-->
   
@@ -42,7 +41,9 @@ Sou aluno de Sistema de Informação na Universidade Federal Fluminense :compute
 
 <div>
   
-  <img align="center" alt="jaum-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>       
+  <img align="center" alt="jaum-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>     
+
+   <img align="center" alt="jaum-angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
  
 </div>
 

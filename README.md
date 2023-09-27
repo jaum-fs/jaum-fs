@@ -17,8 +17,8 @@ Sou aluno de Sistema de Informação na Universidade Federal Fluminense :compute
 #### Redes Sociais:
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jaumfpss_)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joaomarcosmbsilva/)
-[![Intagram](https://img.shields.io/badge/Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaum.py/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjoaomarcosmbsilva/)
+<!--[![Intagram](https://img.shields.io/badge/Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaum.py/)-->
 
 ### Ferramentas e Tecnologias:
 

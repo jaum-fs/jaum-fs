@@ -41,9 +41,10 @@ Desenvolvedor Back-End<br>
 
 <div>
   
-  <img align="center" alt="jaum-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>     
-
-   <img align="center" alt="jaum-angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
+  <img align="center" alt="jaum-javascript" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>     
+   
+  <img align="center" alt="jaum-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
  
 </div>
 

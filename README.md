@@ -2,11 +2,11 @@
 
 ### Sobre mim:
 
-Meu nome é João Marcos, tenho 21 anos.<br>
+Meu nome é João Marcos, tenho 22 anos.<br>
 
-Sou aluno de Sistema de Informação na Universidade Federal Fluminense :computer:<br>
+Sou aluno de Ciência da Computação na Universidade Federal Fluminense :computer:<br>
 
-Desenvolvedor Back-End<br>
+Desenvolvedor Back-End Java<br>
 
 <div>
   <img align = "center" width ="400" src = "https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=dark">

@@ -29,9 +29,6 @@ Desenvolvedor Back-End<br>
   <img align="center" alt="jaum-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   
   <img align="center" alt="jaum-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-
-  
- <!-- <img align="center" alt="jaum-spring" height="40" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>-->
   
   
 </div>
@@ -41,9 +38,9 @@ Desenvolvedor Back-End<br>
 
 <div>
   
-  <img align="center" alt="jaum-javascript" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>     
+  <img align="center" alt="jaum-javascript" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>     
    
-  <img align="center" alt="jaum-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="jaum-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
           
  
 </div>

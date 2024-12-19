@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
-Meu nome é João Marcos, tenho 22 anos.<br>
+Meu nome é João Marcos, tenho 23 anos.<br>
 
 Sou aluno de Ciência da Computação na Universidade Federal Fluminense :computer:<br>
 

@@ -1,12 +1,12 @@
-## Bem-vindo(a) ao meu perfil! :relaxed:
+# Welcome to my profile! :relaxed:
 
-### Sobre mim:
+## About me:
 
-Meu nome é João Marcos, tenho 23 anos.<br>
+My name is João Marcos, I'm 23 yo.<br>
 
-Sou aluno de Ciência da Computação na Universidade Federal Fluminense :computer:<br>
-
-Desenvolvedor Back-End Java<br>
+I am a Computer Science student at the Federal University of Fluminense (UFF) since 2022.<br>
+I have been working as a Software Engineer since April 2023, where I focus on developing and improving software solutions. <br>
+I am passionate about technology and eager to learn more :computer:<br>
 
 <div>
   <img align = "center" width ="400" src = "https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=dark">
@@ -14,13 +14,13 @@ Desenvolvedor Back-End Java<br>
   <img align="center" width ="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaum-fs&layout=compact&theme=dark">
 </div>
 
-#### Redes Sociais:
+### Social Media:
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jaumfpss_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjoaomarcosmbsilva/)
 <!--[![Intagram](https://img.shields.io/badge/Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaum.py/)-->
 
-### Ferramentas e Tecnologias:
+### Technologies:
 
 <div>
   
@@ -29,27 +29,31 @@ Desenvolvedor Back-End Java<br>
   <img align="center" alt="jaum-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   
   <img align="center" alt="jaum-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+
+  <img align="center" alt="jaum-javascript" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>     
+   
+  <img align="center" alt="jaum-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   
   
 </div>
 
 
-### Estou aprendendo: 
+### I'm learning: 
 
 <div>
   
-  <img align="center" alt="jaum-javascript" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>     
+  <img align="center" alt="jaum-javascript" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>               
    
-  <img align="center" alt="jaum-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img align="center" alt="jaum-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           
  
 </div>
 
-### Projetos recentes:
+### Recent Projects:
 
-[API Rest com Spring Boot e MongoDB](https://github.com/jaum-fs/api-spring-mongo)
+[API Rest w/ Spring Boot and MongoDB](https://github.com/jaum-fs/api-spring-mongo)
 
-[Web Service com Spring e JPA](https://github.com/jaum-fs/web_service-spring-jpa)
+[Web Service w/ Spring and JPA](https://github.com/jaum-fs/web_service-spring-jpa)
 
 
 

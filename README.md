@@ -30,8 +30,6 @@ I am passionate about technology and eager to learn more :computer:<br>
   
   <img align="center" alt="jaum-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
 
-  <img align="center" alt="jaum-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
-
   <img align="center" alt="jaum-angular" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>       
 
 </div>
@@ -44,7 +42,8 @@ I am passionate about technology and eager to learn more :computer:<br>
   <img align="center" alt="jaum-docker" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>               
    
   <img align="center" alt="jaum-aws" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-          
+
+  <img align="center" alt="jaum-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />   
  
 </div>
 

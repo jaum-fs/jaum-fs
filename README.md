@@ -6,7 +6,7 @@ My name is João Marcos, I'm 23 yo.<br>
 
 I am a Computer Science student at the Federal University of Fluminense (UFF) since 2022.<br>
 I have been working as a Software Engineer since April 2023, where I focus on developing and improving software solutions. <br>
-I am passionate about technology and eager to learn more :computer:<br>
+I'm passionate about technology and excited to learn more :computer:<br>
 
 <div>
   <img align = "center" width ="400" src = "https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=dark">

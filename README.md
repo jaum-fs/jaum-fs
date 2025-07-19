@@ -8,17 +8,13 @@ I am a Computer Science student at the Federal University of Fluminense (UFF) si
 I have been working as a Software Engineer since April 2023, where I focus on developing and improving software solutions. <br>
 I'm passionate about technology and excited to learn more :computer:<br>
 
-<div>
-  <img align = "center" width ="400" src = "https://github-readme-stats.vercel.app/api?username=jaum-fs&show_icons=true&theme=dark">
- 
+<div> 
   <img align="center" width ="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaum-fs&layout=compact&theme=dark">
 </div>
 
 ### Social Media:
 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jaumfpss_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjoaomarcosmbsilva/)
-<!--[![Intagram](https://img.shields.io/badge/Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaum.py/)-->
 
 ### Technologies:
 

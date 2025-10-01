@@ -4,7 +4,7 @@
 
 My name is João Marcos, I'm 23 yo.<br>
 
-I am a Computer Science student at the Federal University of Fluminense (UFF) since 2022.<br>
+I am a Computer Science student at the Federal University of Fluminense (UFF) since 2024.<br>
 I have been working as a Software Engineer since April 2023, where I focus on developing and improving software solutions. <br>
 I'm passionate about technology and excited to learn more :computer:<br>
 
